@@ -11,3 +11,5 @@ CODE TO ASSESS THE EFFECTS OF MICROPLASTICS/NANOPLASTICS ON GROWTH PATTERN, BODY
 8. This was done to demonstrate the performance of the python code. Gene expression analysis was undertaken using a customizable volcano plot meant to be easy to replicate.
 
 
+Limitation
+The datasets used were not directly generated from actual fish experiments and their interpretation should only be left for demonstrating the functionality of the code.
